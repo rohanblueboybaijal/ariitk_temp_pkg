@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node pkg="temp_pkg3" type="temp_pkg3_node" name="pkg3" />
+
+</launch>
